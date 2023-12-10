@@ -4,7 +4,7 @@ I designed a custom circuit and printed circuit board using a 555 timer and a 40
 ![pcb_render](render_pcb_snowflakev62.png)  
 ![pcb_gif](holiday_proj_2023.gif) 
 
-You can see a video of me soldering one up [here](https://youtu.be/d3nHeJJm5tU). You can see a video demo [here](https://youtube.com/shorts/a9nkGe3neN0?feature=share).
+You can see a video of me soldering one up [here](https://youtu.be/d3nHeJJm5tU). You can see a video demo [here](https://youtu.be/1XaKHCftHVo).
 
 You can find the Gerber files in this repo (the zipped file). You can find the BOM in this repo as well (bom.ods). You can also find a schematic in this repo, the .pdf file.  
 
