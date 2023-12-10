@@ -1,6 +1,6 @@
 # holiday_project_2023
 
-I designed a custom circuit and printer circuit board using a 555 timer and a 4017 decade counter to be my christmas cards for 2023.  
+I designed a custom circuit and printed circuit board using a 555 timer and a 4017 decade counter to be my christmas cards for 2023.  
 ![pcb_render](render_pcb_snowflakev62.png)  
 ![pcb_gif](holiday_proj_2023.gif) 
 
